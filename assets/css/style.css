@@ -529,7 +529,6 @@ div#preloader .loader-cubes {
   width: 50px;
   height: 50px;
   position: absolute;
-  transform: rotateZ(45deg);
 }
 div#preloader .loader-cubes .loader-cube {
   float: left;
@@ -6960,6 +6959,7 @@ div#preloader .loader-cubes .loader-cube .loader-cube3::before {
 }
 .footer-area .footer-widgets .widget.nav-widget .footer-list {
   display: flex;
+  flex-wrap: wrap;
 }
 .footer-area .footer-widgets .widget.nav-widget .footer-list ul {
   display: inline-block;

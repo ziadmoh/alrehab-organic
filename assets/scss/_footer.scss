@@ -42,7 +42,7 @@
             &.nav-widget {
                 .footer-list {
                     display: flex;
-
+                    flex-wrap: wrap;
                     ul {
                         display: inline-block;
 
