@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Papatya Herbs</ShortName>
+  <Description>Herbs and Spices Exporter</Description>
+  <Tags>herbs spices seeds CALENDULA CHAMOMILE MOLOKHIA Mallow Papatya export import organic</Tags>
+  <Image height="16" type="image/vnd.microsoft.icon" width="16">assets/img/favicon.ico</Image>
+  
+  <Query role="example" searchTerms="herbs spices seeds CALENDULA CHAMOMILE MOLOKHIA Mallow Papatya export import organic"></Query>
+</OpenSearchDescription>

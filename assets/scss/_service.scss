@@ -545,7 +545,7 @@
         left: 0;
         width: 100%;
       //  height: 195px;
-        background-color: rgba($secondary-color, 0.7);
+        background-color: rgb(16 114 4 / 89%);
         padding: 20px 40px 40px;
         @include transition(0.3s);
 
@@ -600,7 +600,7 @@
     &:hover {
         & .services-overlay {
             bottom: 0;
-            background-color: rgba($primary-color, 0.9);
+            background-color: rgb(1 163 36 / 90%);
         }
     }
 }
